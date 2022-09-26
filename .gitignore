@@ -3,4 +3,4 @@ vendor/
 !/logs/README.md
 .buildpath
 .settings/
-composer.lock
+composer.lock/
