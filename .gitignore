@@ -1,6 +1,7 @@
-vendor/
+vendor
 /logs/*
 !/logs/README.md
-.buildpath
-.settings/
-composer.lock/
+buildpath
+settings
+composer.lock
+composer.json
